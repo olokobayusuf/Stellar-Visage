@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CoreMechanics\PlanetSpin.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CoreMechanics\Cam.cs" Line="27" Column="39" />
+      <File FileName="Assets\Scripts\CoreMechanics\PlanetSpin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoreMechanics\Autopilot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoreMechanics\Fit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoreMechanics\ForestViz.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoreMechanics\TextSequencer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoreMechanics\Upload.cs" Line="30" Column="37" />
+      <File FileName="Assets\Scripts\CoreMechanics\AsteroidBelt.cs" Line="14" Column="17" />
+      <File FileName="Assets\Scripts\CoreMechanics\Download.cs" Line="25" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
